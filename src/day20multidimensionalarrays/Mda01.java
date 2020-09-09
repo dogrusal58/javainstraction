@@ -36,7 +36,7 @@ public class Mda01 {
 		int sum = 0;
 		for (int i =0 ; i<mdac[0].length;i++) {
 			sum =sum +mdac[0][i];
-			System.out.println(mdac[0][i]);
+			
 		}
 		System.out.println(sum);
 		

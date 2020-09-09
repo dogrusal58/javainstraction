@@ -8,7 +8,7 @@ public class Test1 {
 	}
 	static {
 		System.out.print(x + " ");//static in içinde kullanýlacak variable static olmalý
-		//eðer yukarýdakistatic int  x = 10 yerine sadece int x = 10 deseydik kýrmýzý uyarý verirdi.(compile time error)
+		//eðer yukarýdaki static int  x = 10 yerine sadece int x = 10 deseydik kýrmýzý uyarý verirdi.(compile time error)
 	}
 
 

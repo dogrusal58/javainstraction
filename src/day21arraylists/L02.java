@@ -20,6 +20,7 @@ public class L02 {
 		System.out.println(sl.contains("Kemal"));//true
 		System.out.println(sl.contains("WWWWW"));//false
 		
+		
 		Collections.sort(sl);//çok kullanýlýr.küçükten büyüðe sýralama veya alfabetik sýralama
 		System.out.println(sl);
 
